@@ -5,3 +5,4 @@ contracts
 build
 coverage
 __mocks__
+data
